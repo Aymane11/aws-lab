@@ -7,6 +7,7 @@ export AWS_SECRET_ACCESS_KEY=
 ```
 - Create the buckets and the lambda function
 ```
+cd terraform
 terraform init
 terraform apply
 ```
