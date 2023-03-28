@@ -1,5 +1,5 @@
 ## Setup
-- Install Terraform and AWS ClI
+- Install Terraform and AWS CLI
 - Get AWS Access Key and Secret Key and set them as environment variables
 ```
 export AWS_ACCESS_KEY_ID=
